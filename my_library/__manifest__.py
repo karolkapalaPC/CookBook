@@ -10,7 +10,7 @@ Description related to library.
     'author': "Parth Gajjar",
     'website': "http://www.example.com",
     'category': 'Tools',
-    'version': '14.0.2',
+    'version': '14.0.1',
     'depends': ['base', 'web'],
 
     'data': [
